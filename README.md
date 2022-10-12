@@ -8,7 +8,7 @@
 
 ## Technologies/tools/frameworks I use in my tests
 - Task management: Jira and Redmine;
-- Test management: Testlink, Xray Plugin and Io Tests Plugin on Jira;
+- Test management: Testlink, Zephyr, Xray and test IO;
 - API Tests: Postman;
 - Programming language: Javascript;
 - Writing test scenarios: Gherkin;
