@@ -1,16 +1,29 @@
-### Hi there 👋
+## Welcome to Hortência Alves's profile.
+**Hello. My name is Hortência Alves. I am QA Engineer since 2019.**
 
-<!--
-**hortencialves/hortencialves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am working at PDMFC;
+- I'm studying to take the **CTFL Foundation certification**;
+- I started with automated tests using **Cypress**;
+- Every day more passionate about the **QA area**.
 
-Here are some ideas to get you started:
+## Technologies/tools/frameworks I use in my tests
+- Task management: Jira and Redmine;
+- Test management: Testlink, Xray Plugin and Io Tests Plugin on Jira;
+- API Tests: Postman;
+- Programming language: Javascript;
+- Writing test scenarios: Gherkin;
+- Test Automation: Cypress.
+  <div> 
+  <a href="https://www.linkedin.com/in/hortencialves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:hortencialves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/hortencialves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hortencialves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hortencialves&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+  ##
+
