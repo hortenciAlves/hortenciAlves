@@ -13,7 +13,12 @@
 - Programming language: Javascript;
 - Writing test scenarios: Gherkin;
 - Test Automation: Cypress.
-  
+ <div style="display: inline_block"><br>
+ <img align="center" alt="Ingryd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Ingryd-Cy" height="30" width="60" src="https://miro.medium.com/max/600/1*liFVAWAgD-TrAQjbxsVBcA.png">
+<a href="https://www.postman.com/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </p>
+</div>
+ 
  ##
   
   <div> 
